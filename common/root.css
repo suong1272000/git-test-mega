@@ -1,0 +1,12 @@
+:root{
+    --primary-purple-300: #8f69dd;
+    --primary-purple-200: #bea9ed;
+    --primary-purple-100: #d8cbf4;
+    --primary-purple-50: #f0eafa;
+    --font-size-small: 14px;
+    --font-size-midium: 24px;
+    --font-size-large: 36px;
+    --font-weight-400: 400;
+    --font-weight-600: 600;
+    --font-weight-700: 700;
+}
