@@ -1,0 +1,11 @@
+.titleBox{
+    width: 250px;
+    height: 300px;
+    background-color: var(--primary-purple-300);
+}
+.title{
+    color: var(--primary-purple-50);
+}
+.logo{
+    color: var(--primary-purple-100);
+}
