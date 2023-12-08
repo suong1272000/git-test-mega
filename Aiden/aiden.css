@@ -1,0 +1,13 @@
+.button{
+    width: 200px;
+    height: 100px;
+    
+    background-color: var(--primary-purple-300);
+
+    border: none;
+    border-radius: 15px;
+
+    font-size: var(--font-size-large);
+    font-weight: var(--font-weight-600);
+
+}
